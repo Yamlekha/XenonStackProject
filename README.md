@@ -34,4 +34,8 @@ Firstly, let's create the bash script for your internsctl command. You'll need t
 
    6. Contributions
       Contributions or suggestions to enhance the script's functionalities or improve documentation are welcome. Feel free 
-      to create pull requests or issues.  
+      to create pull requests or issues.
+
+
+<--PROJECT ECOMMERCE -->
+This is ecommerce website It contains simple Registration and Login page. To start this project-: open the file in spring suite tool and by changing the datasource information in application.properties file you can run this project on localhost.
